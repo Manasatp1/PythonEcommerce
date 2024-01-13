@@ -1,0 +1,68 @@
+body{
+    font-family:  'Encode Sans Condensed', sans-serif
+    font-size: 14px;
+    }
+
+.nav-item{
+    letter-spacing: .2rem;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'Encode Sans Condensed', sans-serif
+    }
+
+.dropdown-item{
+    letter-spacing: .2rem;
+    font-size: 14px;
+    text-transform: uppercase;
+    }
+
+.my_footer{
+    background-color:#F4F6F6;
+    margin-top:100px;
+
+     }
+
+.my_footer p{
+    padding-top:18px;
+    font-size: 14px;
+    font-family: 'Encode Sans Condensed', sans-serif
+
+    }
+
+ /*** category page ***/
+
+.my_row_class{
+    padding-top:15px;
+    }
+
+.my_row_class .max_auto{
+    color:#0000;
+    font-size:12px;
+    }
+
+.my_image{
+    width:80%;
+    height:300px;
+    margin-left:100px;
+    }
+
+.my_title{
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2em;
+    }
+
+
+.my_image_padding{
+    padding:5px;
+    }
+
+.card-body h4{
+    font-size:14px;
+    letter-spacing:0.2em;
+    text-transform:uppercase;
+    }
+
+ /*** product page ***/
+
+
